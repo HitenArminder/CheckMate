@@ -10,6 +10,7 @@ function App() {
 
       <> 
         <span>New wlwmwne</span>
+        <span>new ammit</span>
       </>
   )
 }
