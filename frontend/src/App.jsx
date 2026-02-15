@@ -14,6 +14,9 @@ function App() {
         <div>
           Th enew componetn2 
         </div>
+        <data>
+          ewrfveq
+        </data>
       </>
   )
 }
