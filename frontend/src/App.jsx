@@ -11,6 +11,9 @@ function App() {
       <> 
         <span>New wlwmwne</span>
         <span>new ammit</span>
+        <div>
+          Th enew componetn2 
+        </div>
       </>
   )
 }
